@@ -1,6 +1,6 @@
 # Options Alpha Agent
 
-Autonomous paper-trading agent for Alpaca's Options Alpha Agents challenge. It uses a CLI-backed workflow, deterministic risk controls, explainable decisions, audit logs, and a Streamlit dashboard for judging.
+Autonomous paper-trading agent for Alpaca's Options Agents challenge. It uses a CLI-backed workflow, deterministic risk controls, explainable decisions, audit logs, and a Streamlit dashboard for judging.
 
 ## Why This Can Win
 
